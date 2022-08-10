@@ -1,8 +1,8 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'MoravianLion, VoidMods'
-description 'Simple drift-mode'
-version '0.1.0'
+author 'cyrq'
+description 'drift'
+version '0.0.1'
 
-client_script 'cl.lua'
+client_script 'cliente.lua'
